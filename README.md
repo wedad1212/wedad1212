@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wedad Al Ghafari.</h1>
+<h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, I'm Wedad Al Ghafari.</h1>
 <h3 align="center">IndiaInterested in mobile development with Flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wedad1212&label=Profile%20views&color=0e75b6&style=flat" alt="wedad1212" /> </p>
