@@ -2,6 +2,7 @@
 <h3 align="center">IndiaInterested in mobile development with Flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wedad1212&label=Profile%20views&color=0e75b6&style=flat" alt="wedad1212" /> </p>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 👨‍💻 IDE **android studio and visual studio code**
 
