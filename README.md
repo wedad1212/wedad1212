@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
   <br>I'm Wedad Al Ghafari.</h1>
-<h3 align="center">IndiaInterested in mobile development with Flutter.</h3>
+<h3 align="center">Interested in mobile development with Flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wedad1212&label=Profile%20views&color=0e75b6&style=flat" alt="wedad1212" /> </p>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 👨‍💻 IDE **android studio and visual studio code**
 
-- 🌱 I’m currently learning deep Flutter **notifications and firebase and api and ect...**
+- 🌱 I’m currently learning deep Flutter **notifications and firebase and API and etc...**
 
 - 📫 How to reach me **wedad12we12@gmail.com**
 
