@@ -8,8 +8,7 @@
 
 <picture> <img align="right" src="https://github.com/wedad1212/wedad1212/assets/106346658/b01c024e-de83-47c0-89fb-5e516e564d45?raw=true" width = 250px></picture>
 
-
-![kitten-keybo](https://github.com/wedad1212/wedad1212/assets/106346658/b01c024e-de83-47c0-89fb-5e516e564d45)
+<br><br>
 
 
 
