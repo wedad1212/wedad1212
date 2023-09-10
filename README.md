@@ -1,3 +1,4 @@
+![bongo-cat-typing](https://github.com/wedad1212/wedad1212/assets/106346658/dbc6c0f8-0e2c-431e-9d29-967d618882eb)
 <h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
   <br>I'm Wedad Al Ghafari.</h1>
 <h3 align="center">Interested in mobile development with Flutter.</h3>
@@ -6,7 +7,8 @@
 <!-- <picture> <img align="right" src="https://github.com/wedad1212/wedad1212/assets/106346658/8d22ae5b-d865-4f1e-a97e-f672b1887275 width = 250px></picture> -->
 
 
-<picture> <img align="right" src="https://github.com/wedad1212/wedad1212/assets/106346658/b01c024e-de83-47c0-89fb-5e516e564d45?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/wedad1212/wedad1212/assets/106346658/428f61dc-6c1b-47ea-8275-aea888667aaa?raw=true" width = 250px></picture>
+
 
 
 
