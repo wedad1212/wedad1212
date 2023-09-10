@@ -1,4 +1,4 @@
-![bongo-cat-typing](https://github.com/wedad1212/wedad1212/assets/106346658/dbc6c0f8-0e2c-431e-9d29-967d618882eb)
+
 <h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
   <br>I'm Wedad Al Ghafari.</h1>
 <h3 align="center">Interested in mobile development with Flutter.</h3>
