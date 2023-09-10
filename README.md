@@ -6,7 +6,8 @@
 <!-- <picture> <img align="right" src="https://github.com/wedad1212/wedad1212/assets/106346658/8d22ae5b-d865-4f1e-a97e-f672b1887275 width = 250px></picture> -->
 
 
-
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 
 
 
