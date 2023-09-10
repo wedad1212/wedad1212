@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wedad1212&label=Profile%20views&color=0e75b6&style=flat" alt="wedad1212" /> </p>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🎓 Education <br> **Computer Institute Software Engineering at Damascus**
+- 🎓 **Education** <br> **Computer Institute Software Engineering at Damascus**
 
-- 👨‍💻 IDE <br>**android studio and visual studio code**
+- 👨‍💻 **IDE** <br>**android studio and visual studio code**
 
-- 🌱 I’m currently learning<br> **deep Flutter notifications and Firebase and API etc...**
+- 🌱 **I’m currently learning**<br> **deep Flutter notifications and Firebase and API etc...**
 
-- 📫 How to reach me<br> **wedad12we12@gmail.com**
+- 📫 **How to reach me**<br> **wedad12we12@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
