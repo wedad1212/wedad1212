@@ -3,7 +3,7 @@
 <h3 align="center">Interested in mobile development with Flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wedad1212&label=Profile%20views&color=0e75b6&style=flat" alt="wedad1212" /> </p>
-<!-- <picture> <img align="right" src="https://tenor.com/view/kitten-keybo-lap-gif-19489640 width = 250px></picture> -->
+<picture> <img align="right" src="https://github.com/wedad1212/wedad1212/assets/106346658/8d22ae5b-d865-4f1e-a97e-f672b1887275 width = 250px></picture>
 
 
 ![kitten-keybo](https://github.com/wedad1212/wedad1212/assets/106346658/8d22ae5b-d865-4f1e-a97e-f672b1887275)
