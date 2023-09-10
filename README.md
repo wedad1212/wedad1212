@@ -6,9 +6,9 @@
 <!-- <picture> <img align="right" src="https://github.com/wedad1212/wedad1212/assets/106346658/8d22ae5b-d865-4f1e-a97e-f672b1887275 width = 250px></picture> -->
 
 
-<picture> <img align="right" src="https://github.com/wedad1212/wedad1212/assets/106346658/b01c024e-de83-47c0-89fb-5e516e564d45?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/wedad1212/wedad1212/assets/106346658/b01c024e-de83-47c0-89fb-5e516e564d45?raw=true" width = 250px></picture><br><br>
 
-<br><br>
+
 
 
 
